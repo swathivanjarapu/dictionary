@@ -1,0 +1,4 @@
+banana 4500 9 
+banana 350 0 
+banana 550 8 
+orange 13000 6
